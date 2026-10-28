@@ -1,34 +1,11 @@
-# Python for Beginners 🐍
+# Python Learning 🐍
 
-A 12-day Python course (1 hour a day) for Class 8, 9 and 10 students. No coding experience needed.
+Python courses for Class 8, 9 and 10 students. Each course is 12 days, 1 hour a day.
 
-## How each class works
-1. **Teacher demo (~15 min):** run the code cells one by one and explain.
-2. **Your Turn (~40 min):** students click a task, press **B** to add a code cell, and solve it.
+| Course | For | Covers |
+|---|---|---|
+| [orientation](orientation/) | Before enrolling (25 min show) | games, chatbot, art, fractals, charts, talking computer |
+| [basic](basic/) | Total beginners | print, variables, packages, input, if/else, loops, lists, strings, dictionaries |
+| [intermediate](intermediate/) | After the basic course | functions, tuples/sets, errors, files, turtle, pandas, charts |
 
-⭐ easy · ⭐⭐ medium · ⭐⭐⭐ bonus (if you finish early)
-
-Stuck? Every task has a hidden **💡 Need help?** section with the steps to solve it.
-
-## Classes
-
-| Day | Topic |
-|---|---|
-| 1 | Hello Python: `print`, comments |
-| 2 | Variables and data types |
-| 3 | Math with Python |
-| 4 | `input()` and f-strings |
-| 5 | `if` / `elif` / `else` |
-| 6 | `and`, `or`, `not` |
-| 7 | `for` loops and `range` |
-| 8 | `while` loops, `break`, `continue` |
-| 9 | Lists |
-| 10 | Strings |
-| 11 | Dictionaries |
-| 12 | `math`, `random` and a calculator project |
-
-## Keyboard shortcuts
-- **Shift + Enter**: run a cell
-- **B**: add a cell below
-- **A**: add a cell above
-- **■ Stop**: stop a loop that runs forever
+Open a notebook (`.ipynb`) in Jupyter or VS Code and start from Day 1.

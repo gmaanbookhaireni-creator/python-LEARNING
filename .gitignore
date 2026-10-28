@@ -1,1 +1,5 @@
 lm.txt
+.ipynb_checkpoints/
+# files made while running the lessons
+*.csv
+*.txt
